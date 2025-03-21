@@ -48,8 +48,7 @@ Found something to improve? Feel free to **fork this repository, open issues, or
 
 ## 📌 Connect with Me
 💬 Let's discuss insights & ideas! Feel free to connect and collaborate.  
-🔗 **LinkedIn:** [Your LinkedIn Profile]  
-🔗 **GitHub:** [GitHub Repository Link]  
+🔗 **LinkedIn:** [Dhruv Pratap Singh]    
 
 #NLP #SentimentAnalysis #MachineLearning #DataScience #Python #JupyterNotebook #Plotly
 
